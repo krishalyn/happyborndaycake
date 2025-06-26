@@ -1,0 +1,8 @@
+<div id="spotify-player" style="margin-top: 20px;">
+  <h3>🎶 Now Playing: Happy Na Birthday Mo Pa – Carlos Agassi</h3>
+  <iframe style="border-radius:12px"
+    src="https://open.spotify.com/embed/track/3l9j0rtuxwYJPgrIZbmgud"
+    width="300" height="80" frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+  </iframe>
+</div>
